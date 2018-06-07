@@ -1,0 +1,19 @@
+{
+	"ProjectName": "ubiq-displays3",
+	"ProjectPath": "/Users/kms/ws/ubiq-displays3",
+	"InitializationTime": "2018-06-06-11-10-06",
+	"LastConfigurationTime": "2018-06-06-11-09-14",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "2018-06-06-14-06-45",
+	"LastPublishTime": "2018-06-06-14-06-51",
+	"BackendLastSyncTime": "2018-06-06-15-09-29",
+	"BackendLastBuildTime": "2018-06-06-15-08-03",
+	"BackendLastPushTime": "2018-06-06-15-09-14",
+	"BackendProjectID": "1a54b823-e02f-42e5-ac45-f4b121bf4d1c",
+	"BackendProjectName": "ubiq-displays3-2018-06-06-11-09-14",
+	"BackendProjectConsoleUrl": "https://console.aws.amazon.com/mobilehub/home#/1a54b823-e02f-42e5-ac45-f4b121bf4d1c/build",
+	"BackendProjectCreationTime": "2018-06-06T15:09:31.604Z",
+	"BackendProjectLastUpdatedTime": "2018-06-06T19:08:11.875Z",
+	"Framework": "react",
+	"BackendLastSyncToDevTime": "2018-06-06-15-09-30"
+}
