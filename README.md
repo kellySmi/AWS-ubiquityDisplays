@@ -1,5 +1,7 @@
-# AWS implementation
+# AWS implementation using AWS Mobile
 ### This is an AWS implementation of ubiquity displays
+This implementation stores the React code for the web application in S3 and retrieves it when the user loads the application in their browser.
+
 AWS Services used:
 * Amazon Cognito User Pools
 * Amazon Cognito Federated Identities
@@ -27,4 +29,4 @@ awsmobile features
 awsmobile push
 
 ### Architecture Diagram
-![](http://lenamendes.com/ubqdisplays/architecture.png) 
+![](http://lenamendes.com/ubqdisplays/architecture.png)
