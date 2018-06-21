@@ -29,4 +29,4 @@ awsmobile features
 awsmobile push
 
 ### Architecture Diagram
-![](http://lenamendes.com/ubqdisplays/architecture.png)
+![](architecture.png)
